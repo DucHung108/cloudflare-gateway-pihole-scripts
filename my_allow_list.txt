@@ -1,3 +1,5 @@
 click.discord.com
 za.zalo.me
 imasdk.googleapis.com
+c.office.com
+js.monitor.azure.com
