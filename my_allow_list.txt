@@ -16,3 +16,4 @@ s.amazon-adsystem.com
 fls-na.amazon.com
 cmp.quantcast.com
 browser.pipe.aria.microsoft.com
+collector.github.com
