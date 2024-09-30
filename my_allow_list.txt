@@ -17,4 +17,4 @@ fls-na.amazon.com
 cmp.quantcast.com
 browser.pipe.aria.microsoft.com
 collector.github.com
-
+stats.playrix.com
